@@ -29,6 +29,7 @@ figure{
   border-width: 5px;
   border-color: rgb(204, 204, 204);
   margin: 2px;
+  padding: 1px;
 }
 
 .flex-container {
