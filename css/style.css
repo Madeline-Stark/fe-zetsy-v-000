@@ -1,9 +1,8 @@
 /*////////////// Fonts //////////////*/
 
-@font-face {
-	font-family: 'Baskerville';
-	src: url(../fonts/Baskerville.ttc);
-}
+<style>
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+</style>
 
 /*////////// Global Styles //////////*/
 
