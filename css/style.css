@@ -38,7 +38,7 @@ figure{
 	width: 100%;
 	align-content: stretch;
   padding: 1px;
-  margin: 0 5px;
+  margin: 0 -5px;
 }
 
 p {
