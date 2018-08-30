@@ -49,5 +49,6 @@ p {
 
 footer {
 	clear: both;
+  align: right; 
   font: normal 12.8px 'Times New Roman', cursive;
 }
