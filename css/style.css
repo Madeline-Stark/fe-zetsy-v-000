@@ -38,6 +38,7 @@ figure{
 	width: 100%;
 	align-content: stretch;
   padding: 1px;
+  margin: 5px;
 }
 
 p {
@@ -49,6 +50,6 @@ p {
 
 footer {
 	clear: both;
-  text-align: right; 
+  text-align: right;
   font: normal 12.8px 'Times New Roman', cursive;
 }
