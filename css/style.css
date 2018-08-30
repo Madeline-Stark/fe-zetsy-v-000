@@ -3,6 +3,10 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
+div {
+  width: 250px;
+}
+
 
 .flex-container {
   display: flex;
@@ -13,9 +17,7 @@
 	align-content: stretch;
 }
 
-div {
-  width: 250px;
-}
+
 
 footer {
 	clear: both;
