@@ -1,12 +1,12 @@
 /*////////////// Fonts //////////////*/
 
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+@import url('fonts/Baskerville.ttc');
 
 
 /*////////// Global Styles //////////*/
 
 .header {
-  font: normal 0.75em/1.5em 'Libre Baskerville', cursive;
+  font: normal 0.75em/1.5em 'Baskerville', cursive;
 }
 
 
