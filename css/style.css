@@ -13,6 +13,10 @@
 	align-content: stretch;
 }
 
+div {
+  width: auto;
+}
+
 footer {
 	clear: both;
 }
