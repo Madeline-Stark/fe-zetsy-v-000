@@ -6,9 +6,9 @@
 
 .flex-container {
   display: flex;
+  flex-flow: row nowrap;
 	justify-content: space-around;
 	align-items: flex-end;
-	flex-flow: row nowrap;
 	width: 100%;
 	align-content: stretch;
 }
