@@ -18,6 +18,11 @@ header {
   color: rgb(111, 127, 122);
 }
 
+img {
+  border-style: solid;
+  
+}
+
 
 .flex-container {
   display: flex;
