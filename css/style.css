@@ -12,6 +12,11 @@
   font: normal 0.75em/1.5em 'Baskerville', cursive;
 }
 
+.subheader {
+  font: normal 0.75em/1.5em 'Baskerville', cursive;
+  color: #111127122;
+}
+
 
 .flex-container {
   display: flex;
